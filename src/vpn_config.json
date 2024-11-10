@@ -1,0 +1,6 @@
+{
+    "server_address": "vpn.example.com",
+    "port": 1194,
+    "encryption": "AES-256-CBC",
+    "protocol": "UDP"
+}
